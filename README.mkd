@@ -1,0 +1,20 @@
+# Kruskal Clustering Algorithm
+Python 3 implementation.  
+
+- kruskal: algorithm implementation  
+- kruskal_viz: vizualization routines  
+- main: usage of kruskal module  
+
+## running
+run with:
+
+    make
+
+
+## next steps
+
+- [X] algorithm implementation
+- [ ] unit test
+- [ ] complexities computation
+- [ ] vizualization (graphviz ?)
+
